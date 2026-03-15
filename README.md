@@ -52,6 +52,8 @@ node server.js
 
 *OUT PUT*
 
+<img width="1756" height="530" alt="Image" src="https://github.com/user-attachments/assets/7dd0a936-9866-45ab-8444-ce9e175ef252" />
+
 
 
 
